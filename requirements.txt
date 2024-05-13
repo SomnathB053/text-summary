@@ -1,0 +1,7 @@
+langchain
+google-generativeai 
+langchain-google-genai
+selenium
+unstructured
+streamlit
+python-dotenv
